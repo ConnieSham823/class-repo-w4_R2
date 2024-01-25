@@ -20,7 +20,9 @@ Things I need to do:
 My favorite website
 [Amazon](http://www.amazon.ca)
 
-![Fender Telecaster](images/tele.jpg)
+![Fender Telecaster](images/tele.jpg) ![Fender Telecaster](images/Elvis.png)
 
 
 ![Fender Telecaster](images/Elvis.png)
+
+
