@@ -23,3 +23,4 @@ My favorite website
 ![Fender Telecaster](images/tele.jpg)
 
 
+![Fender Telecaster](images/Elvis.png)
